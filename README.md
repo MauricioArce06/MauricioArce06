@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricioarce06&label=Profile%20views&color=0e75b6&style=flat" alt="mauricioarce06" /> </p>
 
-- 🔭 I’m currently working on a project named **DentAll**
+- 🔭 I’m currently working on a project named **Pampa**
 
 - 🌱 I’m currently learning **AWS and Java**
 
